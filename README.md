@@ -1,4 +1,4 @@
-# [Vipul Mittal]
+# Vipul Mittal
 
 ## About Me
 
