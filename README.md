@@ -6,7 +6,7 @@ Hi there! 👋 I'm Vipul Mittal, a passionate software developer with expertise 
 
 - 📧 Email: [vipulmittalce@gmail.com](mailto:vipulmittalce@gmail.com)
 - 💼 LinkedIn: [vipulm7](https://www.linkedin.com/in/vipulm7/)
-- ![code-forces](https://github.com/vipulm7/vipulm7/assets/94779461/37a2d650-551d-408c-9060-bb8cd983acdb)Codeforces: [vipulm7](https://codeforces.com/profile/vipulm7) (Expert)
+- ![code-forces](https://github.com/vipulm7/vipulm7/assets/94779461/37a2d650-551d-408c-9060-bb8cd983acdb) Codeforces: [vipulm7](https://codeforces.com/profile/vipulm7) (Expert)
 
 ## Skills
 
