@@ -33,4 +33,4 @@ Android app to record expenses and incomes.
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 - 📧 Email: [vipulmittalce@gmail.com](mailto:vipulmittalce@gmail.com)
-- 📱 [View my Resume/CV]([https://drive.google.com/drive/folders/1tXVqKlphGe7r4zbK2ONK5BCZ31MMH74h](https://drive.google.com/file/d/1uM4aLjTkClwUv1x_6g0aSvkY3XkydJMs/view?usp=drive_link))
+- 📱 [View my Resume/CV]([https://drive.google.com/file/d/1uM4aLjTkClwUv1x_6g0aSvkY3XkydJMs/view?usp=drive_link])
