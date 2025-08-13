@@ -23,7 +23,7 @@ Hi there! 👋 I'm Vipul Mittal, a passionate software developer with expertise 
 Android application to store contacts separately from the phonebook.
 
 ### [Event Entry System](https://github.com/vipulm7/Event-Entry-System)
-Event Entry app to for entry of students via bar code scanning.
+Event Entry app for entry of students via bar code scanning.
 
 ### [Expense Manager](https://github.com/vipulm7/ExpenseManager)
 Android app to record expenses and incomes.
@@ -33,4 +33,4 @@ Android app to record expenses and incomes.
 I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 - 📧 Email: [vipulmittalce@gmail.com](mailto:vipulmittalce@gmail.com)
-- 📱 [View my Resume/CV]([https://drive.google.com/file/d/1uM4aLjTkClwUv1x_6g0aSvkY3XkydJMs/view?usp=drive_link])
+- 📱 [View my Resume/CV](https://drive.google.com/file/d/1uM4aLjTkClwUv1x_6g0aSvkY3XkydJMs/view?usp=drive_link)
